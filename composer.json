@@ -2,6 +2,12 @@
     "name": "symfony/website-skeleton",
     "type": "project",
     "license": "proprietary",
+    "authors": [
+        {
+            "name": "Asylbek Mubarak, WOOPPAY LLC",
+            "email": "asilbekmubarak@gmail.com"
+        }
+    ],
     "description": "A skeleton to start a new Symfony website",
     "require": {
         "php": "^7.1.3",
